@@ -10,6 +10,13 @@ module.exports = {
       xl: "1280px",
       "2xl": "1536px",
     },
+    extend: {
+      colors: {
+        brand: {
+          500: "#8257E6",
+        },
+      },
+    },
     colors: ({ colors }) => ({
       inherit: colors.inherit,
       current: colors.current,
