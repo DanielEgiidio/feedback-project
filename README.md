@@ -3,13 +3,13 @@
 
 ## 🚀 Info
 
-Na NLW #8 foi desenvolvido uma aplicação que coleta feedback dos usuarios e os armazena em um banco de dados, alem de envia-los por email com sua descrição, screenshot do problema e titulo do problema, ideia ou outros.
+Na NLW #8 foi desenvolvido uma aplicação que coleta os feedbacks dos usuarios e os armazena em um banco de dados, alem de envia-los por email com sua descrição, screenshot da tela.
 
-O Backend da aplicação foi construído com NodeJs, onde foram utilizado as melhores praticas e clean code facilitando a manutenção, essa caracteristica foi utilizada tanto no backend, como no frontend e mobile, foram ainda utilizados testes unitarios com Jest e o banco de dados foi o Prisma.
+O Backend da aplicação foi construído com NodeJs, onde foram utilizadas as melhores praticas e clean code facilitando a manutenção, essa caracteristica foi utilizada tanto no backend, como no frontend e mobile, foram ainda utilizados testes unitarios com Jest e o banco de dados foi o Prisma.
 
 O Frontend foi utilizado ReactJS utilizando do Vite para agilizar e facilitar toda a configuração inicial, ainda foram utilizados os conceitos de acessibilidade e sua estilização foi a base do tailwindCSS.
 
-O Mobile foi construído com React Native, na situação foi utilizado a Expo com caracteristicas semelhantes ao Vite para lidar com toda a configuração inicial e agilizar o processo e não ficar muito tempo preso nas configurações do ambiente de desenvolvimento, porém no caso da Expo foram bem mais contundentes, pois a facilidade de ler apenas um QRCODE com o seu aparelho e começar a codar facilita bastante.
+O Mobile foi construído com React Native, na situação foi utilizado a Expo com caracteristicas semelhantes ao Vite para lidar com toda a configuração iniciais e agilizar o processo nas configurações do ambiente de desenvolvimento, porém no caso da Expo foram bem mais contundentes, pois a facilidade de ler apenas um QRCODE com o seu aparelho e começar a codar facilita bastante.
 
 
 ## 👨‍💻 Tecnologias
