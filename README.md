@@ -1,3 +1,4 @@
+
 ![image](https://user-images.githubusercontent.com/71537090/167278997-56d6c6a9-e477-4910-b512-23feb2fff54f.png)
 
 ## 🚀 Info
@@ -33,6 +34,9 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 ## ⚙️ Como rodar o projeto
 
+Você pode acessar a aplicação Web onde foi feito deploy na Vercel utilizando as estrategias de CI/CD, ou roda-la localmente seguindo os procedimentos abaixo;
+- [Aplicação Web](https://feedback-project-xi.vercel.app)
+
 ```sh
 # BackEnd
 $ cd server
@@ -54,3 +58,4 @@ $ npm install
 $ npm run start
 
 ```
+
